@@ -3,7 +3,7 @@
 #include "gmock\gmock.h";
 #include "gtest\gtest.h";
 #include <iostream>
-#include "ImportantLibrary.h"
+#include "..\ImportantLibrary.h"
 #include "..\ImportantLibrary.cpp"
 #include "..\foobar\ImportantLibrary2.h"
 #include "..\foobar\ImportantLibrary2.cpp"
